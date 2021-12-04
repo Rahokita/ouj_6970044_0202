@@ -6,7 +6,9 @@
 - 分量はA4用紙2～4ページ程度を想定するが，その限りではない． 必要に応じて図表を入れること． 
 
 ## 参考サイト
-- Any Python Tree Data — anytree 2.8.0 documentation
+- Any Python Tree Data ? anytree 2.8.0 documentation
 -- https://anytree.readthedocs.io/en/latest/
+- JSON Exporter ? anytree 2.8.0 documentation
+-- https://anytree.readthedocs.io/en/latest/exporter/jsonexporter.html
 - PythonでTree（木構造）のデータを扱うモジュール「Node, anytree,RenderTree」 | ソフトウェア開発日記
 -- https://lightgauge.net/language/python/9501/
